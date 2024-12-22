@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan underline;
+    font-size: 50px;
+}
+
+p{
+    color: green;
+    font-size: 25px;
+}
+
+/*The following references an id*/
+#p2{
+    color: pink;
+}
+
+/*The following references a class*/
+.Class1{
+    color: red;
+}
